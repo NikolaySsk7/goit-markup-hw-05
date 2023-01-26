@@ -112,7 +112,7 @@ button {
 
 .studio::after {
   position: absolute;
-  bottom: 0;
+  bottom: -1px;
   left: 0;
   display: block;
   margin: 0 auto;
@@ -131,7 +131,7 @@ button {
 
 .portfolio::after {
   position: absolute;
-  bottom: 0;
+  bottom: -1px;
   left: 0;
   display: block;
   margin: 0 auto;
